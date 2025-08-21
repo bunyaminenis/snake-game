@@ -14,15 +14,20 @@ Clean OOP structure (separate files for snake, food, scoreboard)
 
 📁 Project Structure
 📦 snake-game/
+
 ├── main.py          # Game engine and loop
+
 ├── snake.py         # Snake logic and controls
+
 ├── food.py          # Food spawning logic
+
 ├── scoreboard.py    # Score display and high score management
+
 ├── data.txt         # Stores the highest score locally
 
 ▶️ How to Run
 Make sure you have Python 3.x installed. Then:
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/bunyaminenis/snake-game.git
 cd snake-game
 python main.py
 Use:
